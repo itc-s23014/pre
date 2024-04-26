@@ -3,3 +3,6 @@ Regex Adventure
 
 Regex Pazzle
 ![seikihyougen](https://github.com/itc-s23014/pre/assets/131832675/b7d32c2b-a8b0-4496-aeca-0c8820335b1a)
+
+paiza Git
+![Screenshot from 2024-04-26 23-34-06](https://github.com/itc-s23014/pre/assets/131832675/3c726d39-24ca-4bd8-97d2-a7cc1bca9b6f)
