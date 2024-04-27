@@ -6,3 +6,7 @@ Regex Pazzle
 
 paiza Git
 ![Screenshot from 2024-04-26 23-34-06](https://github.com/itc-s23014/pre/assets/131832675/3c726d39-24ca-4bd8-97d2-a7cc1bca9b6f)
+
+Learn Git
+![Screenshot from 2024-04-27 22-28-21](https://github.com/itc-s23014/pre/assets/131832675/3312027f-31ad-4468-8b45-9c143684688e)
+
